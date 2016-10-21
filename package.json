@@ -1,0 +1,26 @@
+{
+  "name": "easymodel",
+  "version": "1.0.0",
+  "description": "Incredible tool to create models with methods, validation, and so on!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DailyDeal/EasyModel.git"
+  },
+  "keywords": [
+    "model",
+    "js",
+    "object",
+    "validation",
+    "schema"
+  ],
+  "author": "DailyDeal GmbH <dev@dailydeal.de> (https://dailydeal.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DailyDeal/EasyModel/issues"
+  },
+  "homepage": "https://github.com/DailyDeal/EasyModel#readme"
+}
